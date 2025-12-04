@@ -1,0 +1,9 @@
+Package: hello-rs
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: any
+Maintainer: hide227 <you@example.com>
+Description: Simple Hello World in Rust
+ A minimal Rust-based Hello World program.
+ 
